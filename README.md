@@ -24,5 +24,5 @@ The shell is designed in two parts:
 -  6th: ./testme <totalNumInstance> <index> <values>   (test program that prints out the instance, the total number of instances, and the range of values each instance processes.)
 -  7th: ./prime <totalNumInstances> <index> <upperValue>   (generates all prime numbers that occur within a range of numbers)
 
-
-
+## Authors:
+Chase Dittbenner and Deesha Rajiv
